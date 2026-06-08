@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rachit20055/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rachit20055/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rachit20055/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rachit20055/Leetcode/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,8 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rachit20055/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rachit20055/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rachit20055/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/rachit20055/Leetcode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rachit20055/Leetcode/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/rachit20055/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
