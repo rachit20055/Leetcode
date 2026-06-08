@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rachit20055/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rachit20055/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rachit20055/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rachit20055/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rachit20055/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rachit20055/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rachit20055/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rachit20055/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -83,4 +85,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rachit20055/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rachit20055/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rachit20055/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
