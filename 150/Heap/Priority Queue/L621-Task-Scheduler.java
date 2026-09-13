@@ -1,0 +1,27 @@
+class Solution{
+    public int leastInterval(char[] tasks,int n){
+        int[] freq=new int[26];
+        for(char task:tasks){
+            freq[task-'A']++;
+        }
+        int maxFreq=0;
+        for(int f:freq){
+            maxFreq=Math.max(maxFreq,f);
+        }
+        int maxCount=0;
+        for(int f:freq){
+            if(f==maxFreq){
+                maxCount++;
+            }
+        }
+        int calculated=(maxFreq-1)*(n+1)+maxCount;
+        return Math.max(tasks.length,calculated);
+    }
+    public static void main(String[] args) {
+        Solution s=new Solution();
+        char[] tasks={'A','A','A','B','B','B'};
+        int n=2;
+        int result=s.leastInterval(tasks,n);
+        System.out.println(result);
+    }
+}
